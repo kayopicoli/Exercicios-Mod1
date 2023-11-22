@@ -1,0 +1,36 @@
+body{
+    
+}
+
+.Formulario{
+    display: flex;
+    
+   
+   
+
+    
+}
+
+
+div{
+    background-color: aquamarine;
+}
+
+
+label{
+    text-align:
+    margin: 8px;
+    
+}
+
+input{
+border-radius: 30px;
+
+}
+
+
+button{
+    background-color: aqua;
+    border-radius: 20px;
+
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+    .container{
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    
+.div{
+    display: flex;
+    flex-wrap: wrap;
+   
+   width: 30px;
+}
+
+        
+        
+    
+.bloco{
+    background:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,96,0.6950250852529642) 35%, rgba(0,212,255,1) 100%);
+
+
+}
+.Bloco7{
+    background-color: red;
+}

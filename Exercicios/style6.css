@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla&display=swap");
+
+body {
+  font-family: "Karla", sans-serif;
+  background-position: #f7f7f7;
+  background-color: #a7d7c5;
+  border-bottom-color: #49b98f;
+  text-align: center;
+  border: none;
+  margin: 10em;
+}
+.Quadrado {
+  width: 100%;
+  background-color: antiquewhite;
+  margin-right: 30%;
+  
+  
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+button {
+  display: block;
+  margin: 0 auto;
+}
+
+input {
+  width: 30%;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+button {
+  background-color: azure;
+}
